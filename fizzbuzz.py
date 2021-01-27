@@ -10,3 +10,5 @@ for i in range(101):
         print('Buzz')
     else:
         print(i)
+
+print("Все!")
